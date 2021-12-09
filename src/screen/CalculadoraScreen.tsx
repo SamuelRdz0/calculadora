@@ -80,3 +80,6 @@ export const CalculadoraScreen = () => {
         </View>
     )
 }
+
+// Made by Samuel 
+
